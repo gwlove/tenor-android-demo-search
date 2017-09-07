@@ -2,7 +2,7 @@ Tenor Android Search Demo
 =========================
 
 ## Introduction
-In this demo, we will look at how to create a simple GIF search app.
+In this demo, we will look at how to create a simple GIF search app.sDFASDFASD
 We will have our GIFs be searchable in three different ways:
 
 1. **Tags**:  A display of terms with a GIF preview background.  When clicked, a search for the tag's term will occur.  
